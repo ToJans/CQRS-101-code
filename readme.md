@@ -1,0 +1,1 @@
+This is the (cleaned up) example CQRS app from the presentation [CQRS 101: All your BASE belong to us](https://docs.google.com/presentation/pub?id=157NwGxUZY_PKW0H_R_jjA3zLZkYiheuQfyh60IU0PrE&start=false&loop=false&delayms=3000)
